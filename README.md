@@ -6,4 +6,6 @@ In the novel "This Mortal Coil," by Emily Suvada, the main character finds an en
 The end of the book included the encoded message, along with the challenge to decode it. 
 
 This code asks for an input file (the nucleotides), and an output destination. 
-It then writes a text file with the decoded message. 
+It then writes a .txt file with the decoded message. 
+
+Note: make sure to include the file extensions (.txt) when prompted for filepaths.
