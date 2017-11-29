@@ -5,6 +5,13 @@ import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
 
 public class Decode_DNA {
+    
+     /*
+     * A decoder for the cipher used in "This Mortal Coil" by Emily Suvada
+     *
+     * @author (of code): Alexander Reichard
+     *
+     */
 
     public static void main(String[] args)
             throws FileNotFoundException, UnsupportedEncodingException {
